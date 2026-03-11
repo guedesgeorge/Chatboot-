@@ -42,16 +42,6 @@ git clone https://github.com/seu-usuario/chatbot-licitacoes.git
 cd chatbot-licitacoes
 pip install -r requirements.txt
 
-3. Deploy no Railway
-Este projeto está configurado para deploy contínuo no Railway:
-Conecte seu repositório ao painel do Railway.
-Adicione as Variáveis de Ambiente (Environment Variables) necessárias.
-O deploy será feito automaticamente a cada git push.
-📞 Contato Institucional
-Setor: Departamento de Licitações - Terenos/MS.
-Telefone: (67) 3389-6654.
-E-mail: licitacao@terenos.ms.gov.br.
-Horário: Segunda a Sexta, das 07h às 13h.
 
 ## 📝 Licença e Desenvolvedor
 
