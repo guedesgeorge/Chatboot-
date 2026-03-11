@@ -21,6 +21,7 @@ Metodologia: Reconhecimento de palavras-chave e menu interativo contextualizado.
 Menu Interativo: Navegação guiada para facilitar o uso por usuários leigos.
 Respostas Contextualizadas: Identificação de intenções para dúvidas frequentes.
 Suporte MEI/ME/EPP: Seção dedicada aos benefícios garantidos por lei para pequenos negócios.
+
 ## 🚀 Estrutura de Pastas
 Plaintext
 chatbot-licitacoes/
@@ -53,6 +54,7 @@ E-mail: licitacao@terenos.ms.gov.br.
 Horário: Segunda a Sexta, das 07h às 13h.
 
 ## 📝 Licença e Desenvolvedor
+
 Desenvolvido por George Emmanuel como solução de automação para o setor público.
 Versão: 2.0 (Migração para Telegram).
 Status: Em produção.

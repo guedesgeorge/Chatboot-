@@ -6,6 +6,7 @@ from chatbot_base import ChatbotLicitacao
 app = Flask(__name__)
 bot = ChatbotLicitacao()
 
+# Token sensiveis fazer a exclusao gitignore
 TELEGRAM_TOKEN = "8741462073:AAEWi1w-pTYmzQV3R70HtSxWqmkaEVevTPg"
 TELEGRAM_API = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}"
 
