@@ -61,4 +61,4 @@ Status: Em produção.
 Deseja que eu escreva também um pequeno guia de como criar as variáveis de ambiente no Railway para esse bot?
 
 # BY 
-George Guedes
+George Emannuel Guedes
