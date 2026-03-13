@@ -25,11 +25,16 @@ Suporte MEI/ME/EPP: Seção dedicada aos benefícios garantidos por lei para peq
 ## 🚀 Estrutura de Pastas
 Plaintext
 chatbot-licitacoes/
-├── app/                  # Lógica central do bot e integração com Telegram
-├── config/               # Gerenciamento de variáveis de ambiente
-├── tests/                # Scripts de validação e testes unitários
-├── requirements.txt      # Dependências do projeto
-└── Procfile              # Configuração de runtime para o Railway
+├── app/                 
+# Lógica central do bot e integração com Telegram
+├── config/               
+# Gerenciamento de variáveis de ambiente
+├── tests/                
+# Scripts de validação e testes unitários
+├── requirements.txt      
+# Dependências do projeto
+└── Procfile              
+# Configuração de runtime para o Railway
 
 ## ⚙️ Configuração e Deploy
 1. Requisitos
